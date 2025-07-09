@@ -1,1 +1,1 @@
-## This is the dataset associated with the manuscript titled *"Habitat urbanization, circulating glucose and carotenoid levels, and body condition predict variation in blood ketone levels in House Finches (Haemorhous mexicanus) from the American Southwest,"* submitted to *Birds*.
+## This is the dataset associated with the manuscript titled *"Habitat urbanization, circulating glucose and carotenoid levels, and body condition predict variation in blood ketone levels in House Finches (Haemorhous mexicanus) from the American Southwest,"* published to *Birds*.
